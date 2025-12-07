@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "クリスマスイブ",
+  "base_artist": "優里",
+  "createdAt": "2025-12-07T12:02:11.811835Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "クリスマスイブ",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/01_クリスマスイブ_優里.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "クリスマスイブ",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/02_クリスマスイブ_Yuuri.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "クリスマスイブ (Remaster 2025)",
+      "artist": "plue",
+      "has_synced": false,
+      "path": "select/03_クリスマスイブ_(Remaster_2025)_plue.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クリスマスイブ",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_01_クリスマスイブ_優里.txt"
+    }
+  ]
+}
